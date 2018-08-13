@@ -1,0 +1,4 @@
+none
+person
+person-robot
+robot

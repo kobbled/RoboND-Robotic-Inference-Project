@@ -1,0 +1,25 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-08-10 21:05:16.515347",
+    "dataset_id": "20180810-202617-c692",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180810-210516-abe4",
+    "image dimensions": [
+        679,
+        1124,
+        3
+    ],
+    "job id": "20180810-210516-abe4",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "Headstock-Model",
+    "snapshot file": "snapshot_iter_7654.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Running",
+    "train_val file": "train_val.prototxt",
+    "username": "matt"
+}

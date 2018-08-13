@@ -1,0 +1,7 @@
+/data/P1_data/Bottle/coconut_934.png 0
+/data/P1_data/Bottle/dressing_1443.png 0
+/data/P1_data/Bottle/odwalla_314.png 0
+/data/P1_data/Candy_Box/reeses_306.png 1
+/data/P1_data/Candy_Box/woppers_740.png 1
+/data/P1_data/Nothing/Nothing_pic_1568.png 2
+/data/P1_data/Nothing/Nothing_pic_1448.png 2

@@ -1,0 +1,20 @@
+Tensorflow support disabled.
+2018-08-07 00:54:01 [DEBUG] 556 total lines in file
+2018-08-07 00:54:01 [INFO ] 556 valid lines in file
+2018-08-07 00:54:01 [DEBUG] Category 0 has 140 images.
+2018-08-07 00:54:01 [DEBUG] Category 1 has 138 images.
+2018-08-07 00:54:01 [DEBUG] Category 2 has 140 images.
+2018-08-07 00:54:01 [DEBUG] Category 3 has 138 images.
+2018-08-07 00:54:03 [DEBUG] Processed 0/556
+2018-08-07 00:54:05 [DEBUG] Processed 0/556
+2018-08-07 00:54:07 [DEBUG] Processed 100/556
+2018-08-07 00:54:09 [DEBUG] Processed 100/556
+2018-08-07 00:54:12 [DEBUG] Processed 200/556
+2018-08-07 00:54:14 [DEBUG] Processed 200/556
+2018-08-07 00:54:16 [DEBUG] Processed 300/556
+2018-08-07 00:54:18 [DEBUG] Processed 300/556
+2018-08-07 00:54:20 [DEBUG] Processed 400/556
+2018-08-07 00:54:22 [DEBUG] Processed 400/556
+2018-08-07 00:54:24 [DEBUG] Processed 500/556
+2018-08-07 00:54:25 [DEBUG] 556 images loaded
+2018-08-07 00:54:25 [INFO ] 556 images written to database

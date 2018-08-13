@@ -1,0 +1,963 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.12)  13 AUG 2018 16:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 458.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+ (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen127
+\lightrulewidth=\dimen128
+\cmidrulewidth=\dimen129
+\belowrulesep=\dimen130
+\belowbottomsep=\dimen131
+\aboverulesep=\dimen132
+\abovetopsep=\dimen133
+\cmidrulesep=\dimen134
+\cmidrulekern=\dimen135
+\defaultaddspace=\dimen136
+\@cmidla=\count95
+\@cmidlb=\count96
+\@aboverulesep=\dimen137
+\@belowrulesep=\dimen138
+\@thisruleclass=\count97
+\@lastruleclass=\count98
+\@thisrulewidth=\dimen139
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks16
+\lst@length=\count100
+\lst@currlwidth=\dimen140
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen143
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box29
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count109
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count110
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen145
+\Fld@menulength=\count111
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip44
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 21.
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+-- Lines per column: 61 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen148
+\scratchbox=\box30
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen149
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count123
+\AtBeginShipoutBox=\box31
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+)
+Package hyperref Info: Link coloring ON on input line 24.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count124
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out) (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 45.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.03> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.62097> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.015> on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.04124> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.72884> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.52061> on input line 45.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 45.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 48.
+ <../img/DNN_metrics.png, id=63, 833.1125pt x 300.12125pt>
+File: ../img/DNN_metrics.png Graphic file (type png)
+ <use ../img/DNN_metrics.png>
+Package pdftex.def Info: ../img/DNN_metrics.png used on input line 64.
+(pdftex.def)             Requested size: 252.94499pt x 91.11781pt.
+
+Underfull \hbox (badness 1371) in paragraph at lines 69--70
+[]\OT1/ppl/m/n/9.53561 GoogLeNet win-ner of ILSVRC 2014, fo-cuses on a
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <../img/DNN_metrics.png>] <../img/detectnet_training.png, id=82, 626.34pt x 215.80624pt>
+File: ../img/detectnet_training.png Graphic file (type png)
+ <use ../img/detectnet_training.png>
+Package pdftex.def Info: ../img/detectnet_training.png used on input line 75.
+(pdftex.def)             Requested size: 252.94499pt x 87.15077pt.
+ <../img/detectnet_validation.png, id=84, 626.34pt x 230.8625pt>
+File: ../img/detectnet_validation.png Graphic file (type png)
+ <use ../img/detectnet_validation.png>
+Package pdftex.def Info: ../img/detectnet_validation.png used on input line 76.
+(pdftex.def)             Requested size: 252.94499pt x 93.23106pt.
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.53561> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.6749> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.7678> on input line 83.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 89.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 93.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+ <../img/P1-Dataset/dataset_sample.jpg, id=88, 250.9375pt x 168.63pt>
+File: ../img/P1-Dataset/dataset_sample.jpg Graphic file (type jpg)
+ <use ../img/P1-Dataset/dataset_sample.jpg>
+Package pdftex.def Info: ../img/P1-Dataset/dataset_sample.jpg used on input line 108.
+(pdftex.def)             Requested size: 252.94499pt x 169.98816pt.
+ <../img/P1-Dataset/P1-Model-Setup.png, id=89, 793.96625pt x 815.045pt>
+File: ../img/P1-Dataset/P1-Model-Setup.png Graphic file (type png)
+ <use ../img/P1-Dataset/P1-Model-Setup.png>
+Package pdftex.def Info: ../img/P1-Dataset/P1-Model-Setup.png used on input line 117.
+(pdftex.def)             Requested size: 252.94499pt x 259.66312pt.
+
+Underfull \vbox (badness 3503) has occurred while \output is active []
+
+ [2 <../img/detectnet_training.png> <../img/detectnet_validation.png> <../img/P1-Dataset/dataset_sample.jpg> <../img/P1-Dataset/P1-Model-Setup.png>] <../img/Workcell1-Classification/dataset/WC1-labels.png, id=103, 835.12pt x 837.1275pt>
+File: ../img/Workcell1-Classification/dataset/WC1-labels.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/dataset/WC1-labels.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/dataset/WC1-labels.png used on input line 139.
+(pdftex.def)             Requested size: 252.94499pt x 253.55438pt.
+ <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png, id=111, 771.88374pt x 894.34125pt>
+File: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png used on input line 153.
+(pdftex.def)             Requested size: 252.94499pt x 293.07289pt.
+ <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png, id=112, 1177.39874pt x 769.87625pt>
+File: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png used on input line 160.
+(pdftex.def)             Requested size: 252.94499pt x 165.39095pt.
+ [3 <../img/Workcell1-Classification/dataset/WC1-labels.png> <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png> <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png>]
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+
+<../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png, id=123, 941.5175pt x 841.1425pt>
+File: ../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png used on input line 209.
+(pdftex.def)             Requested size: 252.94499pt x 225.98206pt.
+ <../img/Labelbox/labelbox-robot-person.png, id=126, 1413.28pt x 848.16875pt>
+File: ../img/Labelbox/labelbox-robot-person.png Graphic file (type png)
+ <use ../img/Labelbox/labelbox-robot-person.png>
+Package pdftex.def Info: ../img/Labelbox/labelbox-robot-person.png used on input line 218.
+(pdftex.def)             Requested size: 252.94499pt x 151.79666pt.
+ <../img/Labelbox/labelbox_datasets.png, id=128, 507.8975pt x 344.28625pt>
+File: ../img/Labelbox/labelbox_datasets.png Graphic file (type png)
+ <use ../img/Labelbox/labelbox_datasets.png>
+Package pdftex.def Info: ../img/Labelbox/labelbox_datasets.png used on input line 227.
+(pdftex.def)             Requested size: 252.94499pt x 171.45975pt.
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no œ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+ [4 <../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png> <../img/Labelbox/labelbox-robot-person.png> <../img/Labelbox/labelbox_datasets.png>]
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+Missing character: There is no â in font pcrr7t!
+Missing character: There is no ” in font pcrr7t!
+Missing character: There is no € in font pcrr7t!
+File: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png used on input line 266.
+(pdftex.def)             Requested size: 252.94499pt x 293.07289pt.
+ <../img/P1-Dataset/P1-Model_GooGLeNet.jpg, id=145, 790.955pt x 859.21pt>
+File: ../img/P1-Dataset/P1-Model_GooGLeNet.jpg Graphic file (type jpg)
+ <use ../img/P1-Dataset/P1-Model_GooGLeNet.jpg>
+Package pdftex.def Info: ../img/P1-Dataset/P1-Model_GooGLeNet.jpg used on input line 279.
+(pdftex.def)             Requested size: 252.94499pt x 274.76927pt.
+ <../img/P1-Dataset/P1-Prediction-Many.jpg, id=146, 1280.785pt x 859.21pt>
+File: ../img/P1-Dataset/P1-Prediction-Many.jpg Graphic file (type jpg)
+ <use ../img/P1-Dataset/P1-Prediction-Many.jpg>
+Package pdftex.def Info: ../img/P1-Dataset/P1-Prediction-Many.jpg used on input line 286.
+(pdftex.def)             Requested size: 252.94499pt x 169.67572pt.
+ <../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg, id=147, 757.83125pt x 532.99126pt>
+File: ../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg Graphic file (type jpg)
+
+<use ../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg>
+Package pdftex.def Info: ../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg used on input line 293.
+(pdftex.def)             Requested size: 252.94499pt x 177.89645pt.
+
+Underfull \hbox (badness 1888) in paragraph at lines 300--301
+\OT1/ppl/m/n/9.53561 net-work, and hy-per-pa-ram-e-ters as in sub-section. [][]2.2[][],
+ []
+
+<../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png, id=151, 1155.31625pt x 835.12pt>
+File: ../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png used on input line 304.
+(pdftex.def)             Requested size: 252.94499pt x 182.83496pt.
+ <../img/Workcell1-Classification/initial/WC1-1-learning-rate.png, id=152, 877.2775pt x 381.425pt>
+File: ../img/Workcell1-Classification/initial/WC1-1-learning-rate.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/initial/WC1-1-learning-rate.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/initial/WC1-1-learning-rate.png used on input line 305.
+(pdftex.def)             Requested size: 252.94499pt x 109.97601pt.
+ <../img/Workcell1-Classification/initial/WC1-1-classification-test.png, id=153, 1232.605pt x 626.34pt>
+File: ../img/Workcell1-Classification/initial/WC1-1-classification-test.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/initial/WC1-1-classification-test.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/initial/WC1-1-classification-test.png used on input line 312.
+(pdftex.def)             Requested size: 252.94499pt x 128.52477pt.
+ [5 <../img/P1-Dataset/P1-Model_GooGLeNet.jpg>] <../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png, id=174, 1007.765pt x 739.76375pt>
+File: ../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png used on input line 321.
+(pdftex.def)             Requested size: 252.94499pt x 185.6742pt.
+ <../img/Workcell1-Classification/Run2/WC1-2-LR.png, id=175, 872.25874pt x 392.46625pt>
+File: ../img/Workcell1-Classification/Run2/WC1-2-LR.png Graphic file (type png)
+ <use ../img/Workcell1-Classification/Run2/WC1-2-LR.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/Run2/WC1-2-LR.png used on input line 322.
+(pdftex.def)             Requested size: 252.94499pt x 113.8063pt.
+ <../img/Workcell1-Classification/Run2/WC1-2-Overfit.png, id=176, 1261.71375pt x 633.36626pt>
+File: ../img/Workcell1-Classification/Run2/WC1-2-Overfit.png Graphic file (type png)
+
+<use ../img/Workcell1-Classification/Run2/WC1-2-Overfit.png>
+Package pdftex.def Info: ../img/Workcell1-Classification/Run2/WC1-2-Overfit.png used on input line 329.
+(pdftex.def)             Requested size: 252.94499pt x 126.9706pt.
+ <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png, id=181, 605.26125pt x 841.1425pt>
+File: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png used on input line 341.
+(pdftex.def)             Requested size: 252.94499pt x 351.51907pt.
+ <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png, id=182, 1121.18875pt x 832.10875pt>
+File: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png used on input line 348.
+(pdftex.def)             Requested size: 252.94499pt x 187.72426pt.
+ <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png, id=183, 730.73pt x 327.2225pt>
+File: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png used on input line 349.
+(pdftex.def)             Requested size: 252.94499pt x 113.26636pt.
+ <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png, id=184, 877.2775pt x 800.9925pt>
+File: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png Graphic file (type png)
+ <use ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png>
+Package pdftex.def Info: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png used on input line 356.
+(pdftex.def)             Requested size: 252.94499pt x 230.94966pt.
+
+Underfull \hbox (badness 2376) in paragraph at lines 367--368
+\OT1/ppl/m/n/9.53561 for-mat-ted bound-ing box data was val-i-dated with a
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 367--368
+\OT1/ppl/m/n/9.53561 few ran-dom pic-tures as-sum-ing that the ori-gin is lo-
+ []
+
+[6 <../img/P1-Dataset/P1-Prediction-Many.jpg> <../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg> <../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png> <../img/Workcell1-Classification/initial/WC1-1-learning-rate.png> <../img/Workcell1-Classification/initial/WC1-1-classification-test.png>] [7 <../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png> <../img/Workcell1-Classification/Run2/WC1-2-LR.png> <../img/Workcell1-Classification/Run2/WC1-2-Overfit.png> <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png>] (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+[]\OT1/ppl/m/n/8.03 ``Detectnet: Deep neu-ral net-work for ob-ject de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+\OT1/ppl/m/n/8.03 tec-tion in dig-its.'' [][]$https : / / devblogs . nvidia . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+\OT1/ppl/m/n/8.03 detectnet-[]deep-[]neural-[]network-[]object-[]detection-[]digits/$[][].
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 22--25
+[]\OT1/ppl/m/n/8.03 ``Deep learn-ing for ob-ject de-tec-tion with dig-its.'' [][]$https : / /
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
+ [8 <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png> <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png> <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: C7CE8F5076F0BA59B8A584E01C294D38;811.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 384.
+ ) 
+Here is how much of TeX's memory you used:
+ 7598 strings out of 493029
+ 123232 string characters out of 6136234
+ 240300 words of memory out of 5000000
+ 10975 multiletter control sequences out of 15000+600000
+ 45890 words of font info for 96 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 32i,9n,32p,1160b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.pdf" (8 pages, 4432955 bytes).
+PDF statistics:
+ 261 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+

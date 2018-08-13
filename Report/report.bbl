@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:journals/corr/CanzianiPC16}
+A.~Canziani, A.~Paszke, and E.~Culurciello, ``An analysis of deep neural
+  network models for practical applications,'' {\em CoRR}, vol.~abs/1605.07678,
+  2016.
+
+\bibitem{UdacityLesson7}
+Udacity, ``Lesson 7: Inference applications in robotics,'' July 2018.
+
+\bibitem{NvidiaDN}
+``Detectnet: Deep neural network for object detection in digits.''
+  \url{https://devblogs.nvidia.com/detectnet-deep-neural-network-object-detection-digits/}.
+\newblock Accessed: 2018-08-28.
+
+\bibitem{DBLP:journals/corr/SzegedyLJSRAEVR14}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~E. Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich, ``Going deeper with convolutions,'' {\em
+  CoRR}, vol.~abs/1409.4842, 2014.
+
+\bibitem{DNwDIGITS}
+``Deep learning for object detection with digits.''
+  \url{https://devblogs.nvidia.com/deep-learning-object-detection-digits/}.
+\newblock Accessed: 2018-08-28.
+
+\end{thebibliography}
