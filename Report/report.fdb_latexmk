@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex report"] 1534200985 "report.aux" "report.bbl" "report" 1534200988
+["bibtex report"] 1534237226 "report.aux" "report.bbl" "report" 1534237240
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "bib.bib" 1534145785 2190 422a26cfc250824dab54b5dafeb3a6ea ""
-  "report.aux" 1534200987 9788 d7a6c8694d4a1b2eaff7e88b78f7e6e3 ""
+  "report.aux" 1534237233 9788 4d0591c902dbba6d98ae40b392f89e3f ""
   "report.bcf" 0 -1 0 ""
   (generated)
   "report.blg"
   "report.bbl"
-["pdflatex"] 1534200985 "report.tex" "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.pdf" "report" 1534200988
+["pdflatex"] 1534237226 "report.tex" "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.pdf" "report" 1534237240
   "../img/DNN_metrics.png" 1534096769 97894 229b1356fdb52b16132a50a4a03d99e0 ""
   "../img/Labelbox/labelbox-robot-person.png" 1533608188 633682 61f75856d12bfc3a13654a51d73e92db ""
   "../img/Labelbox/labelbox_datasets.png" 1533607942 20354 38265b3f8ea3e7d65f86f99c511fa1cb ""
@@ -34,7 +34,7 @@
   "../img/detectnet_validation.png" 1534129530 39865 ab73cb43540688c27e1bf8bf99e94c05 ""
   "/etc/texmf/web2c/texmf.cnf" 1534090785 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/kobbled/Dropbox/Documents/Online" 1523856700 5614 875fc613f0f0a7b768dbd8726b845e89 ""
-  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux" 1534200987 9788 d7a6c8694d4a1b2eaff7e88b78f7e6e3 ""
+  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux" 1534237233 9788 4d0591c902dbba6d98ae40b392f89e3f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -121,14 +121,16 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1534090791 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1534090820 3856246 caa4f2ae35679f7d6c2ede4e57d6b7b0 ""
   "IEEEtran.cls" 1534064534 276161 d32c13c873ec832ff6b5fbf3a252cfeb ""
-  "report.aux" 1534200987 9788 d7a6c8694d4a1b2eaff7e88b78f7e6e3 ""
-  "report.bbl" 1534200985 977 4fcc6e9f58f86c1dcae1c20331ac10fb "bibtex report"
-  "report.out" 1534200987 811 c7ce8f5076f0ba59b8a584e01c294d38 ""
-  "report.tex" 1534200982 27187 2de671cf790439b9c041355d8ac07386 ""
+  "report.aux" 1534237233 9788 4d0591c902dbba6d98ae40b392f89e3f ""
+  "report.bbl" 1534237226 977 4fcc6e9f58f86c1dcae1c20331ac10fb "bibtex report"
+  "report.out" 1534237233 811 c7ce8f5076f0ba59b8a584e01c294d38 ""
+  "report.tex" 1534237216 27143 e3868616b3149ccaad92e0fea05b213b ""
   (generated)
-  "report.out"
-  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.log"
   "report.log"
   "report.pdf"
-  "report.aux"
+  "report.out"
+  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.log"
+  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.log"
+  "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.pdf"
   "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.pdf"
+  "report.aux"

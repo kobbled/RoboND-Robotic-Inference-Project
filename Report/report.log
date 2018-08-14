@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.12)  13 AUG 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.12)  14 AUG 2018 03:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **report.tex
-(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.tex
+(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
-(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/IEEEtran.cls
+(/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/IEEEtran.cls
 Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -276,7 +276,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip44
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 21.
- (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux)
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -339,7 +339,7 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
- (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out) (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out)
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out) (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
@@ -905,16 +905,11 @@ File: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerificat
 Package pdftex.def Info: ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png used on input line 356.
 (pdftex.def)             Requested size: 252.94499pt x 230.94966pt.
 
-Underfull \hbox (badness 2376) in paragraph at lines 367--368
-\OT1/ppl/m/n/9.53561 for-mat-ted bound-ing box data was val-i-dated with a
+Underfull \hbox (badness 3323) in paragraph at lines 367--368
+\OT1/ppl/m/n/9.53561 object-coordinates-using-detectnet[][] us-ing the [][]MS-COCO[][]
  []
 
-
-Underfull \hbox (badness 1377) in paragraph at lines 367--368
-\OT1/ppl/m/n/9.53561 few ran-dom pic-tures as-sum-ing that the ori-gin is lo-
- []
-
-[6 <../img/P1-Dataset/P1-Prediction-Many.jpg> <../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg> <../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png> <../img/Workcell1-Classification/initial/WC1-1-learning-rate.png> <../img/Workcell1-Classification/initial/WC1-1-classification-test.png>] [7 <../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png> <../img/Workcell1-Classification/Run2/WC1-2-LR.png> <../img/Workcell1-Classification/Run2/WC1-2-Overfit.png> <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png>] (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.bbl
+[6 <../img/P1-Dataset/P1-Prediction-Many.jpg> <../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg> <../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png> <../img/Workcell1-Classification/initial/WC1-1-learning-rate.png> <../img/Workcell1-Classification/initial/WC1-1-classification-test.png>] [7 <../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png> <../img/Workcell1-Classification/Run2/WC1-2-LR.png> <../img/Workcell1-Classification/Run2/WC1-2-Overfit.png> <../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png>] (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 12--15
 []\OT1/ppl/m/n/8.03 ``Detectnet: Deep neu-ral net-work for ob-ject de-
  []
@@ -938,7 +933,7 @@ Underfull \hbox (badness 3439) in paragraph at lines 22--25
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
  [8 <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png> <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png> <../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
- (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux)
+ (/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
 Package rerunfilecheck Info: File `report.out' has not changed.
@@ -947,14 +942,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 384.
  ) 
 Here is how much of TeX's memory you used:
  7598 strings out of 493029
- 123232 string characters out of 6136234
+ 123487 string characters out of 6136234
  240300 words of memory out of 5000000
  10975 multiletter control sequences out of 15000+600000
  45890 words of font info for 96 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 32i,9n,32p,1160b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,9n,32p,1159b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.pdf" (8 pages, 4432955 bytes).
+Output written on "/home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.pdf" (8 pages, 4434424 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  210 compressed objects within 3 object streams

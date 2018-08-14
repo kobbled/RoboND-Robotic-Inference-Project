@@ -1,12 +1,12 @@
-PWD /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report
+PWD /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.tex
-OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.log
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/IEEEtran.cls
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/IEEEtran.cls
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.tex
+OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.log
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/IEEEtran.cls
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/IEEEtran.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
@@ -101,9 +101,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux
-OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux
+OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -120,14 +120,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.pdf
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.pdf
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+OUTPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
@@ -153,7 +153,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvbc7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/DNN_metrics.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/DNN_metrics.png
 INPUT ../img/DNN_metrics.png
 INPUT ../img/DNN_metrics.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
@@ -179,20 +179,20 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplrc7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/detectnet_training.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/detectnet_training.png
 INPUT ../img/detectnet_training.png
 INPUT ../img/detectnet_training.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/detectnet_validation.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/detectnet_validation.png
 INPUT ../img/detectnet_validation.png
 INPUT ../img/detectnet_validation.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/P1-Dataset/dataset_sample.jpg
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/P1-Dataset/dataset_sample.jpg
 INPUT ../img/P1-Dataset/dataset_sample.jpg
 INPUT ../img/P1-Dataset/dataset_sample.jpg
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/P1-Dataset/P1-Model-Setup.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/P1-Dataset/P1-Model-Setup.png
 INPUT ../img/P1-Dataset/P1-Model-Setup.png
 INPUT ../img/P1-Dataset/P1-Model-Setup.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
@@ -201,74 +201,74 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/dataset/WC1-labels.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/dataset/WC1-labels.png
 INPUT ../img/Workcell1-Classification/dataset/WC1-labels.png
 INPUT ../img/Workcell1-Classification/dataset/WC1-labels.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
 INPUT ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
 INPUT ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Model01.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png
 INPUT ../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png
 INPUT ../img/Workcell1-Classification/dataset/WC1-dataset_initalization.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Labelbox/labelbox-robot-person.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Labelbox/labelbox-robot-person.png
 INPUT ../img/Labelbox/labelbox-robot-person.png
 INPUT ../img/Labelbox/labelbox-robot-person.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Labelbox/labelbox_datasets.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Labelbox/labelbox_datasets.png
 INPUT ../img/Labelbox/labelbox_datasets.png
 INPUT ../img/Labelbox/labelbox_datasets.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
 INPUT ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset3.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/P1-Dataset/P1-Model_GooGLeNet.jpg
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/P1-Dataset/P1-Model_GooGLeNet.jpg
 INPUT ../img/P1-Dataset/P1-Model_GooGLeNet.jpg
 INPUT ../img/P1-Dataset/P1-Model_GooGLeNet.jpg
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/P1-Dataset/P1-Prediction-Many.jpg
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/P1-Dataset/P1-Prediction-Many.jpg
 INPUT ../img/P1-Dataset/P1-Prediction-Many.jpg
 INPUT ../img/P1-Dataset/P1-Prediction-Many.jpg
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg
 INPUT ../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg
 INPUT ../img/P1-Dataset/P1-Model_GooGLeNet_evaluate.jpg
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-Loss-Accuracy.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/initial/WC1-1-learning-rate.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/initial/WC1-1-learning-rate.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-learning-rate.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-learning-rate.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/initial/WC1-1-classification-test.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/initial/WC1-1-classification-test.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-classification-test.png
 INPUT ../img/Workcell1-Classification/initial/WC1-1-classification-test.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-Loss_accuracy.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/Run2/WC1-2-LR.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/Run2/WC1-2-LR.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-LR.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-LR.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell1-Classification/Run2/WC1-2-Overfit.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell1-Classification/Run2/WC1-2-Overfit.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-Overfit.png
 INPUT ../img/Workcell1-Classification/Run2/WC1-2-Overfit.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png
 INPUT ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png
 INPUT ../img/Workcell2-Object-Detection/dataset/Workcell2-detectNet-Dataset.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-Accuracy_loss.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-LearningRate.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png
 INPUT ../img/Workcell2-Object-Detection/model/Workcell2-detectNet-ModelVerification01.png
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.bbl
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.bbl
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.bbl
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.aux
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
-INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/Robotic-Inference/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.aux
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
+INPUT /home/kobbled/Dropbox/Documents/Online Courses/robotics_software/RoboND-Robotic-Inference-Project/Report/report.out
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
