@@ -2,7 +2,7 @@ attrs==17.4.0
 certifi==2018.1.18
 chardet==3.0.4
 idna==2.6
-Jinja2==2.10
+Jinja2>=2.10.1
 MarkupSafe==1.0
 -e git+https://github.com/Labelbox/pascal-voc-writer.git@324d06d90d8fde94355b8c9c03cc8c1fb29a0999#egg=pascal_voc_writer
 Pillow==5.0.0
@@ -12,4 +12,4 @@ pytest==3.4.1
 requests==2.20.0
 Shapely==1.6.4.post1
 six==1.11.0
-urllib3==1.22
+urllib3>=1.24.2
