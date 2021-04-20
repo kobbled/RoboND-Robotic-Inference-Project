@@ -7,7 +7,7 @@ MarkupSafe==1.0
 -e git+https://github.com/Labelbox/pascal-voc-writer.git@324d06d90d8fde94355b8c9c03cc8c1fb29a0999#egg=pascal_voc_writer
 Pillow==6.2.0
 pluggy==0.6.0
-py==1.5.2
+py==1.10.0
 pytest==3.4.1
 requests==2.20.0
 Shapely==1.6.4.post1
